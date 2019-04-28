@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/txjava_common/txjava_common.iml" filepath="$PROJECT_DIR$/txjava_common/txjava_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/txjava_eureka4/txjava_eureka4.iml" filepath="$PROJECT_DIR$/txjava_eureka4/txjava_eureka4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/txjava_order/txjava_order.iml" filepath="$PROJECT_DIR$/txjava_order/txjava_order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/txjava_parent.iml" filepath="$PROJECT_DIR$/txjava_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/txjava_user/txjava_user.iml" filepath="$PROJECT_DIR$/txjava_user/txjava_user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/txjava_zuul4/txjava_zuul4.iml" filepath="$PROJECT_DIR$/txjava_zuul4/txjava_zuul4.iml" />
+    </modules>
+  </component>
+</project>

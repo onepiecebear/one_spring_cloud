@@ -1,0 +1,17 @@
+server:
+  port: 8080
+spring:
+  application:
+    name: txjava-zuul4
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8888/eureka
+zuul:
+  routes:
+    txjava-user:
+      path: /user/**
+      serviceId: txjava-user
+    txjava-order:
+      path: /order/**
+      serviceId: txjava-order
